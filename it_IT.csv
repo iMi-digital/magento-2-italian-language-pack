@@ -4846,7 +4846,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Sign-in Information","Informazioni di accesso",module,Magento_Customer
 "Confirm Password","Conferma password",module,Magento_Customer
 "Create an Account","Crea un Account",module,Magento_Customer
-"Set a New Password","Imposta una nuova Password",module,Magento_Customer
+"Set a New Password","Imposta una nuova password",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","Ti sei disconnesso e verrai reindirizzato alla homepage entro 5 secondi.",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Questo account non è confermato. <a href=""%1"">Clicca qui</a> per reinviare l'email di conferma.",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Devi confermare il tuo account. Controlla la tua email per il link di conferma o <a href=""%1"">clicca qui</a> per un nuovo link.",module,Magento_Customer
@@ -4877,7 +4877,9 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Per accedere al nostro sito e impostare una password, clicca sul <a href=""%create_password_url"">link</a>:",module,Magento_Customer
 "Your %store_name email has been changed","È stato modificato il tuo indirizzo email %store_name",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email.","Abbiamo ricevuto una richiesta per modificare le seguenti informazioni, associate al tuo account presso %store_name: email.",module,Magento_Customer
-"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Se non hai autorizzato questa operazione, contattaci immediatamente al %store_email",module,Magento_Customer
+"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Se non hai autorizzato questa operazione, contattaci immediatamente al <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","o chiamaci al <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
+"Thanks,<br>%store_name","Grazie, <br>%store_name",module,Magento_Customer
 "Your %store_name email and password has been changed","L'email di %store_name e password sono  stati modificati",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Abbiamo ricevuto una richiesta per modificare le seguenti informazioni, associate al tuo account presso %store_name: email, password.",module,Magento_Customer
 "Reset your %store_name password","Reimpostare la password di %store_name",module,Magento_Customer
