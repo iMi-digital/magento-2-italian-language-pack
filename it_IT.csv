@@ -9601,9 +9601,9 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "The ""%1"" Cart doesn't contain products.","The ""%1"" Cart doesn't contain products.",module,Magento_Quote
 "Cart isn't assigned to correct store","Cart isn't assigned to correct store",module,Magento_Quote
 "'The coupon code couldn't be applied: ' .","'The coupon code couldn't be applied: ' .",module,Magento_Quote
-"The coupon code couldn't be applied. Verify the coupon code and try again.","The coupon code couldn't be applied. Verify the coupon code and try again.",module,Magento_Quote
-"The coupon code isn't valid. Verify the code and try again.","Il codice coupon non è valido. Verifica il codice e riprova.",module,Magento_Quote
-"The coupon code couldn't be deleted. Verify the coupon code and try again.","The coupon code couldn't be deleted. Verify the coupon code and try again.",module,Magento_Quote
+"The coupon code couldn't be applied. Verify the coupon code and try again.","Il codice promozionale non poteva essere applicato. Verificare il codice coupon e riprovare.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","Il codice coupon non è valido. Verificare il codice e riprovare.",module,Magento_Quote
+"The coupon code couldn't be deleted. Verify the coupon code and try again.","Non è stato possibile cancellare il codice coupon. Verificare il codice e riprovare.",module,Magento_Quote
 "You don't have the correct permissions to assign the customer to the cart.","You don't have the correct permissions to assign the customer to the cart.",module,Magento_Quote
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Quote
 "The requested Payment Method is not available.","Il metodo di pagamento richiesto non è disponibile.",module,Magento_Quote
